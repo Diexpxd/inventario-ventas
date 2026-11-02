@@ -1,0 +1,13 @@
+target/
+*.class
+*.war
+*.log
+*.tmp.*
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+nbproject/
+nbactions.xml
